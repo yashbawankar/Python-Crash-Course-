@@ -1,0 +1,5 @@
+print("Result will show only 8 using Multiply, Subtraction, Addition, Division")
+print("For Multiply:",4*2)
+print("For Subtraction:",16-8)
+print("For addition:",5+3)
+print("For Division:",16/2)
